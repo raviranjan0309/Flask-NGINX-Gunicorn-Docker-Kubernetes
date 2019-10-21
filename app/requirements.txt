@@ -4,7 +4,7 @@ gunicorn==19.7.1
 Jinja2==2.9.6
 requests==2.18.4
 urllib3==1.22
-Werkzeug==0.12.2
+Werkzeug==0.15.3
 flask
 flask-cors
 keras==2.0.5

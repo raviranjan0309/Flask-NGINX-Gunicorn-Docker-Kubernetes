@@ -1,6 +1,6 @@
 #Constant value for build, run and deployment
 image_name=face-emotion-app-1
-project_id=nissan-helios-189503
+project_id=XXXXXXXXXXXXXXXXXXX
 cluster_name=emotion-api-cluster-nginx
 num_nodes=1
 zone=us-central1-b

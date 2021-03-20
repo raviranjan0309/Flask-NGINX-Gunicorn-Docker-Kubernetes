@@ -1,7 +1,7 @@
 certifi==2017.7.27.1
 Flask-RESTful==0.3.6
 gunicorn==19.7.1
-Jinja2==2.9.6
+Jinja2==2.11.3
 requests==2.18.4
 urllib3==1.22
 Werkzeug==0.12.2

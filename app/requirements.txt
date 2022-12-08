@@ -1,4 +1,4 @@
-certifi==2017.7.27.1
+certifi==2022.12.7
 Flask-RESTful==0.3.6
 gunicorn==19.7.1
 Jinja2==2.9.6
